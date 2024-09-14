@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nabinamangrati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinamangrati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏅 Codewars
+[![Codewars Badge](https://www.codewars.com/users/nabina/badges/large)](https://www.codewars.com/users/nabina)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
